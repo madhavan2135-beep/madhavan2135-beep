@@ -8,9 +8,8 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=61AFEF&labelColor=0D1117" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=61AFEF&labelColor=0D1117" /></a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=61AFEF&labelColor=0D1117" /></a>
+<a href="www.linkedin.com/in/madhavan-s-03b3002b4"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=61AFEF&labelColor=0D1117" /></a>
+<a href="mailto:smadhavan2135@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=61AFEF&labelColor=0D1117" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Chennai,_India-0D1117?style=flat-square&logo=googlemaps&logoColor=61AFEF&labelColor=0D1117" /></a>
 
 </div>
