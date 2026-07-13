@@ -158,7 +158,7 @@ Gained practical experience in software development workflows and learned how re
 
 - **NPTEL** — Python for Data Science
 - **Data Analysis** — Cisco Certification
-- *(Add more certifications here)*
+
 
 <br/>
 
